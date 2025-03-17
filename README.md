@@ -1,2 +1,2 @@
 # SDR
-Starting SDR based on Radio GNU
+Starting SDR based on GNU Radio
